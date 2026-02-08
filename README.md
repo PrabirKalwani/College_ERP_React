@@ -1,4 +1,4 @@
-# NMIMS College Portal
+# ERP College Portal
 
 ## Introduction
 
